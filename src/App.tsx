@@ -3,7 +3,7 @@ import { Loader2, Rocket, Search } from 'lucide-react';
 import type { Milestone as MilestoneType } from './types';
 import { Milestone } from './components/Milestone';
 
-const API_KEY = "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";
+const API_KEY = "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";
 
 function App() {
   const [input, setInput] = useState('');
